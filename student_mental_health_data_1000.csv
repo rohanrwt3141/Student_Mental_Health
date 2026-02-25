@@ -1,0 +1,1001 @@
+Exam_Stress,Assignment_Workload,Academic_Performance,Sleep_Duration,Physical_Activity,Screen_Time,Eating_Habits,Family_Support,Friend_Support,Living_Condition,Mental_Health_Level
+High,Very Heavy,Average,7-8 hours,Never,4-6 hours,Average,Moderate,Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,Very High,Slightly Supportive,With Family,High Stress
+Moderate,Light,Good,7-8 hours,Regularly,Less than 2 hours,Average,High,Supportive,With Family,Healthy
+High,Moderate,Good,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,Low,Very Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Below Average,5-6 hours,Sometimes,6-8 hours,Unhealthy,High,Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Poor,5-6 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Below Average,6-7 hours,Never,6-8 hours,Average,Very High,Supportive,Hostel,High Stress
+High,Heavy,Good,7-8 hours,Never,6-8 hours,Mostly Healthy,Low,Very Supportive,Hostel,Moderate Stress
+High,Heavy,Average,7-8 hours,Never,4-6 hours,Average,High,Slightly Supportive,With Family,Moderate Stress
+Very Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Healthy
+Low,Moderate,Average,7-8 hours,Regularly,2-4 hours,Very Healthy,Very Low,Supportive,Shared Accommodation,Healthy
+Low,Moderate,Excellent,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,Very Low,Unsupportive,Rented Alone,Healthy
+Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Moderate,Heavy,Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,High,Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Average,5-6 hours,Sometimes,2-4 hours,Unhealthy,High,Very Unsupportive,Hostel,Moderate Stress
+High,Heavy,Below Average,6-7 hours,Sometimes,6-8 hours,Unhealthy,Low,Very Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Average,5-6 hours,Regularly,6-8 hours,Mostly Healthy,Very High,Supportive,With Family,Moderate Stress
+Low,Moderate,Excellent,More than 8 hours,Daily,4-6 hours,Mostly Healthy,High,Slightly Supportive,With Family,Healthy
+Very High,Extremely Heavy,Average,6-7 hours,Rarely,6-8 hours,Unhealthy,High,Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Below Average,5-6 hours,Rarely,4-6 hours,Average,Very High,Very Unsupportive,Rented Alone,Moderate Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Average,Very High,Supportive,With Family,Moderate Stress
+Moderate,Heavy,Excellent,7-8 hours,Regularly,6-8 hours,Mostly Healthy,Very High,Supportive,Shared Accommodation,Healthy
+Very Low,Very Light,Good,7-8 hours,Daily,2-4 hours,Very Healthy,Low,Very Unsupportive,Hostel,Healthy
+Moderate,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Low,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Average,7-8 hours,Sometimes,4-6 hours,Average,High,Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,6-7 hours,Never,More than 8 hours,Average,Low,Supportive,Shared Accommodation,High Stress
+Very High,Extremely Heavy,Average,6-7 hours,Never,More than 8 hours,Unhealthy,Moderate,Supportive,Rented Alone,High Stress
+Moderate,Moderate,Excellent,More than 8 hours,Sometimes,2-4 hours,Very Healthy,Very High,Supportive,Shared Accommodation,Healthy
+Low,Very Light,Excellent,7-8 hours,Daily,Less than 2 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Low,Light,Good,7-8 hours,Sometimes,4-6 hours,Very Healthy,Very High,Very Supportive,Hostel,Healthy
+Moderate,Moderate,Average,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Very High,Very Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Below Average,6-7 hours,Rarely,More than 8 hours,Unhealthy,Very Low,Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,More than 8 hours,Average,Very Low,Very Unsupportive,Shared Accommodation,High Stress
+Moderate,Heavy,Average,6-7 hours,Rarely,4-6 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Average,7-8 hours,Sometimes,Less than 2 hours,Mostly Healthy,Very Low,Slightly Supportive,Hostel,Healthy
+High,Very Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Average,Very Low,Slightly Supportive,Hostel,High Stress
+Moderate,Moderate,Good,More than 8 hours,Sometimes,6-8 hours,Mostly Healthy,Very Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,Low,Supportive,Hostel,High Stress
+Moderate,Moderate,Good,More than 8 hours,Rarely,4-6 hours,Mostly Healthy,Very Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Poor,6-7 hours,Never,More than 8 hours,Unhealthy,High,Slightly Supportive,Hostel,High Stress
+Very High,Extremely Heavy,Below Average,6-7 hours,Never,6-8 hours,Average,Very Low,Slightly Supportive,Rented Alone,High Stress
+High,Moderate,Average,5-6 hours,Regularly,2-4 hours,Mostly Healthy,Very Low,Very Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Poor,5-6 hours,Rarely,6-8 hours,Average,Low,Slightly Supportive,Hostel,High Stress
+High,Heavy,Below Average,5-6 hours,Sometimes,More than 8 hours,Mostly Healthy,High,Unsupportive,Rented Alone,High Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Low,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Poor,5-6 hours,Regularly,6-8 hours,Average,High,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,6-7 hours,Sometimes,More than 8 hours,Very Unhealthy,Very High,Slightly Supportive,Shared Accommodation,High Stress
+Very Low,Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,Very High,Very Unsupportive,Hostel,Healthy
+High,Moderate,Below Average,7-8 hours,Sometimes,2-4 hours,Average,High,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Very Healthy,Low,Very Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Excellent,7-8 hours,Sometimes,6-8 hours,Average,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Low,Moderate,Good,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,Low,Slightly Supportive,Hostel,Healthy
+Low,Light,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Low,Light,Good,More than 8 hours,Sometimes,2-4 hours,Mostly Healthy,Very High,Very Unsupportive,With Family,Healthy
+Moderate,Moderate,Below Average,6-7 hours,Regularly,2-4 hours,Very Healthy,High,Very Supportive,Hostel,Healthy
+Moderate,Heavy,Average,7-8 hours,Rarely,2-4 hours,Average,Moderate,Very Unsupportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Below Average,5-6 hours,Rarely,6-8 hours,Average,Low,Very Supportive,Shared Accommodation,High Stress
+Moderate,Light,Average,7-8 hours,Sometimes,4-6 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Low,Light,Excellent,More than 8 hours,Sometimes,2-4 hours,Very Healthy,Low,Very Supportive,Hostel,Healthy
+Very High,Extremely Heavy,Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,High,Supportive,With Family,High Stress
+Low,Light,Good,More than 8 hours,Regularly,4-6 hours,Very Healthy,Low,Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Below Average,Less than 5 hours,Rarely,More than 8 hours,Unhealthy,High,Very Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Unhealthy,Moderate,Supportive,Hostel,High Stress
+Very High,Very Heavy,Average,5-6 hours,Never,More than 8 hours,Very Unhealthy,High,Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,6-7 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Unsupportive,Rented Alone,High Stress
+Low,Moderate,Good,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,Very Low,Slightly Supportive,Rented Alone,Healthy
+High,Moderate,Average,7-8 hours,Regularly,4-6 hours,Average,Very Low,Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,5-6 hours,Rarely,More than 8 hours,Unhealthy,High,Unsupportive,Rented Alone,High Stress
+Low,Moderate,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Very Low,Supportive,Hostel,Healthy
+Moderate,Light,Excellent,More than 8 hours,Regularly,4-6 hours,Average,Very High,Slightly Supportive,Hostel,Healthy
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Average,Low,Slightly Supportive,Hostel,Moderate Stress
+High,Heavy,Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,7-8 hours,Rarely,More than 8 hours,Very Unhealthy,Low,Supportive,Shared Accommodation,High Stress
+Low,Moderate,Good,More than 8 hours,Sometimes,4-6 hours,Mostly Healthy,Very Low,Very Supportive,Hostel,Healthy
+High,Heavy,Below Average,6-7 hours,Never,4-6 hours,Unhealthy,Moderate,Very Supportive,Hostel,Moderate Stress
+Very High,Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Average,Very High,Supportive,Rented Alone,High Stress
+High,Heavy,Below Average,5-6 hours,Sometimes,More than 8 hours,Average,Low,Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,5-6 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Supportive,Hostel,High Stress
+High,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Unhealthy,Low,Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,5-6 hours,Never,6-8 hours,Average,Moderate,Supportive,Rented Alone,High Stress
+Very High,Very Heavy,Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Very Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Poor,5-6 hours,Sometimes,More than 8 hours,Mostly Healthy,Very Low,Very Supportive,Shared Accommodation,High Stress
+Very Low,Light,Good,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+High,Heavy,Good,6-7 hours,Never,4-6 hours,Average,Very High,Supportive,Hostel,Moderate Stress
+Low,Light,Good,7-8 hours,Regularly,4-6 hours,Very Healthy,Low,Unsupportive,Rented Alone,Moderate Stress
+Low,Light,Average,More than 8 hours,Daily,2-4 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+High,Very Heavy,Below Average,5-6 hours,Sometimes,4-6 hours,Unhealthy,High,Supportive,Hostel,Moderate Stress
+Low,Very Light,Good,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Very Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,5-6 hours,Never,More than 8 hours,Average,Moderate,Very Supportive,With Family,High Stress
+Moderate,Light,Excellent,7-8 hours,Daily,2-4 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,Healthy
+Very Low,Light,Excellent,7-8 hours,Regularly,Less than 2 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,Very Low,Very Unsupportive,Hostel,High Stress
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Moderate,Good,6-7 hours,Sometimes,2-4 hours,Average,Moderate,Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Average,6-7 hours,Never,More than 8 hours,Unhealthy,Moderate,Very Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,Less than 5 hours,Never,More than 8 hours,Average,Very High,Very Supportive,With Family,High Stress
+Very Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,High,Very Unsupportive,Shared Accommodation,Healthy
+High,Moderate,Below Average,7-8 hours,Regularly,6-8 hours,Unhealthy,Moderate,Slightly Supportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Regularly,2-4 hours,Very Healthy,Moderate,Supportive,Hostel,Healthy
+Low,Moderate,Average,7-8 hours,Daily,4-6 hours,Very Healthy,Very Low,Very Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,6-7 hours,Rarely,More than 8 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,High,Very Supportive,With Family,Moderate Stress
+Moderate,Moderate,Average,More than 8 hours,Regularly,4-6 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+High,Heavy,Good,7-8 hours,Never,6-8 hours,Mostly Healthy,High,Very Supportive,With Family,Moderate Stress
+Low,Moderate,Below Average,6-7 hours,Sometimes,4-6 hours,Very Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Very Healthy,Very High,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Excellent,7-8 hours,Sometimes,6-8 hours,Mostly Healthy,Very Low,Very Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Average,More than 8 hours,Sometimes,Less than 2 hours,Mostly Healthy,Moderate,Slightly Supportive,Rented Alone,Healthy
+High,Moderate,Good,7-8 hours,Regularly,6-8 hours,Unhealthy,High,Supportive,Hostel,Moderate Stress
+High,Very Heavy,Good,7-8 hours,Rarely,6-8 hours,Unhealthy,Very High,Very Unsupportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Very Heavy,Average,7-8 hours,Never,More than 8 hours,Average,High,Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Average,5-6 hours,Never,More than 8 hours,Unhealthy,Low,Very Unsupportive,Hostel,High Stress
+Very High,Extremely Heavy,Average,5-6 hours,Never,More than 8 hours,Average,Low,Slightly Supportive,Hostel,High Stress
+Moderate,Moderate,Good,More than 8 hours,Sometimes,6-8 hours,Average,Moderate,Very Unsupportive,Shared Accommodation,Moderate Stress
+High,Heavy,Good,7-8 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Very Unsupportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Average,Less than 5 hours,Rarely,More than 8 hours,Very Unhealthy,High,Supportive,Hostel,High Stress
+Very High,Extremely Heavy,Average,5-6 hours,Never,More than 8 hours,Unhealthy,Very High,Very Supportive,Shared Accommodation,High Stress
+Very Low,Light,Good,More than 8 hours,Daily,2-4 hours,Mostly Healthy,Low,Very Unsupportive,Hostel,Healthy
+Moderate,Moderate,Good,More than 8 hours,Regularly,4-6 hours,Average,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Sometimes,4-6 hours,Very Healthy,Very Low,Unsupportive,Rented Alone,Moderate Stress
+High,Heavy,Good,7-8 hours,Sometimes,4-6 hours,Average,Very High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Excellent,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Low,Supportive,Hostel,Healthy
+Very High,Very Heavy,Poor,Less than 5 hours,Never,More than 8 hours,Average,High,Slightly Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Poor,6-7 hours,Never,4-6 hours,Very Unhealthy,High,Supportive,Hostel,High Stress
+Very High,Heavy,Poor,5-6 hours,Rarely,6-8 hours,Very Unhealthy,Moderate,Very Unsupportive,Hostel,High Stress
+Very Low,Very Light,Excellent,7-8 hours,Daily,Less than 2 hours,Very Healthy,Low,Very Supportive,Hostel,Healthy
+Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Very Low,Unsupportive,Rented Alone,Healthy
+Low,Moderate,Good,More than 8 hours,Daily,4-6 hours,Mostly Healthy,Moderate,Supportive,Hostel,Healthy
+Low,Moderate,Excellent,More than 8 hours,Daily,4-6 hours,Very Healthy,High,Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,High,Slightly Supportive,With Family,High Stress
+Low,Moderate,Below Average,6-7 hours,Sometimes,Less than 2 hours,Very Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Average,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Low,Moderate,Average,More than 8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Unsupportive,Rented Alone,Healthy
+High,Moderate,Average,7-8 hours,Sometimes,6-8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Average,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Supportive,Hostel,Healthy
+Low,Moderate,Good,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,High,Very Unsupportive,Shared Accommodation,Healthy
+Very High,Heavy,Below Average,6-7 hours,Never,More than 8 hours,Average,High,Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Moderate,Very Unsupportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Average,High,Very Unsupportive,Hostel,High Stress
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,Very Low,Slightly Supportive,Hostel,High Stress
+High,Moderate,Below Average,6-7 hours,Rarely,4-6 hours,Average,Very High,Slightly Supportive,Hostel,Moderate Stress
+Very High,Heavy,Below Average,6-7 hours,Sometimes,4-6 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Rarely,More than 8 hours,Average,High,Slightly Supportive,Shared Accommodation,High Stress
+Low,Moderate,Good,7-8 hours,Regularly,4-6 hours,Very Healthy,Very High,Very Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,6-7 hours,Never,More than 8 hours,Average,High,Very Supportive,Hostel,High Stress
+Very Low,Light,Excellent,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,Healthy
+Moderate,Moderate,Average,More than 8 hours,Regularly,6-8 hours,Average,High,Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Good,7-8 hours,Sometimes,More than 8 hours,Average,Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Below Average,7-8 hours,Sometimes,2-4 hours,Average,Low,Supportive,Rented Alone,Moderate Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Never,6-8 hours,Average,Low,Very Unsupportive,Hostel,High Stress
+Low,Moderate,Good,7-8 hours,Regularly,2-4 hours,Mostly Healthy,High,Slightly Supportive,Hostel,Healthy
+High,Moderate,Average,6-7 hours,Regularly,4-6 hours,Average,Very High,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,5-6 hours,Rarely,More than 8 hours,Average,Very High,Very Supportive,Hostel,High Stress
+Moderate,Heavy,Average,6-7 hours,Sometimes,4-6 hours,Average,Moderate,Supportive,Hostel,Moderate Stress
+Very Low,Light,Good,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,Low,Slightly Supportive,Rented Alone,Healthy
+Low,Light,Excellent,7-8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Very Supportive,With Family,Healthy
+High,Very Heavy,Average,7-8 hours,Never,4-6 hours,Unhealthy,Very High,Supportive,With Family,Moderate Stress
+Low,Moderate,Excellent,7-8 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Very Unsupportive,With Family,Healthy
+Moderate,Moderate,Good,6-7 hours,Regularly,2-4 hours,Mostly Healthy,Very High,Very Unsupportive,Hostel,Moderate Stress
+Very Low,Light,Excellent,7-8 hours,Regularly,Less than 2 hours,Very Healthy,High,Supportive,With Family,Healthy
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,Very Low,Slightly Supportive,Rented Alone,High Stress
+High,Heavy,Poor,5-6 hours,Sometimes,6-8 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Poor,6-7 hours,Never,4-6 hours,Unhealthy,High,Supportive,Shared Accommodation,High Stress
+Low,Moderate,Excellent,7-8 hours,Regularly,4-6 hours,Very Healthy,High,Slightly Supportive,Hostel,Healthy
+Moderate,Light,Below Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,High,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,5-6 hours,Never,4-6 hours,Unhealthy,Moderate,Supportive,Hostel,High Stress
+High,Heavy,Below Average,6-7 hours,Sometimes,More than 8 hours,Average,High,Supportive,With Family,Moderate Stress
+Moderate,Light,Below Average,6-7 hours,Daily,2-4 hours,Very Healthy,High,Supportive,With Family,Healthy
+Moderate,Heavy,Average,6-7 hours,Rarely,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Low,Moderate,Good,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Very High,Supportive,With Family,Healthy
+Moderate,Heavy,Below Average,5-6 hours,Regularly,4-6 hours,Very Healthy,Moderate,Very Unsupportive,Rented Alone,Moderate Stress
+Low,Moderate,Average,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Average,6-7 hours,Rarely,More than 8 hours,Very Unhealthy,High,Supportive,Rented Alone,High Stress
+High,Moderate,Average,7-8 hours,Rarely,6-8 hours,Average,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Good,6-7 hours,Regularly,2-4 hours,Mostly Healthy,High,Very Supportive,Hostel,Healthy
+Low,Moderate,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very Low,Very Supportive,Shared Accommodation,Healthy
+Low,Light,Excellent,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Very Low,Supportive,Shared Accommodation,Healthy
+Very Low,Light,Good,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,Moderate,Slightly Supportive,With Family,Healthy
+High,Heavy,Below Average,6-7 hours,Never,6-8 hours,Average,High,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Poor,5-6 hours,Rarely,4-6 hours,Mostly Healthy,Low,Very Unsupportive,Hostel,High Stress
+Very High,Heavy,Average,5-6 hours,Sometimes,6-8 hours,Unhealthy,Very Low,Unsupportive,Rented Alone,High Stress
+Very High,Extremely Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Unhealthy,Low,Very Unsupportive,Hostel,High Stress
+High,Heavy,Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Low,Unsupportive,Rented Alone,Moderate Stress
+Very High,Extremely Heavy,Average,5-6 hours,Never,More than 8 hours,Unhealthy,Very High,Very Supportive,Hostel,High Stress
+Very High,Heavy,Poor,5-6 hours,Rarely,4-6 hours,Average,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+Low,Very Light,Excellent,7-8 hours,Daily,2-4 hours,Mostly Healthy,High,Slightly Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Good,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Low,Very Unsupportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,6-7 hours,Rarely,6-8 hours,Very Unhealthy,Very High,Very Supportive,Hostel,High Stress
+High,Very Heavy,Good,6-7 hours,Never,4-6 hours,Average,Low,Very Unsupportive,Hostel,High Stress
+Low,Light,Average,7-8 hours,Regularly,4-6 hours,Very Healthy,High,Slightly Supportive,With Family,Healthy
+High,Moderate,Average,7-8 hours,Rarely,6-8 hours,Average,Low,Supportive,Hostel,Moderate Stress
+Very High,Heavy,Below Average,7-8 hours,Rarely,4-6 hours,Unhealthy,Very Low,Very Unsupportive,Rented Alone,High Stress
+Very High,Heavy,Average,5-6 hours,Never,More than 8 hours,Unhealthy,Moderate,Very Supportive,Shared Accommodation,High Stress
+Low,Light,Average,7-8 hours,Daily,2-4 hours,Very Healthy,High,Very Unsupportive,Hostel,Healthy
+Very High,Very Heavy,Poor,Less than 5 hours,Rarely,6-8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Good,7-8 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Supportive,With Family,Healthy
+High,Moderate,Below Average,5-6 hours,Regularly,2-4 hours,Unhealthy,Moderate,Very Unsupportive,Hostel,Moderate Stress
+Low,Light,Average,More than 8 hours,Regularly,4-6 hours,Mostly Healthy,Moderate,Supportive,Hostel,Healthy
+Moderate,Light,Excellent,More than 8 hours,Regularly,4-6 hours,Average,Very High,Very Unsupportive,Rented Alone,Healthy
+Very High,Very Heavy,Average,5-6 hours,Rarely,More than 8 hours,Average,High,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Good,More than 8 hours,Rarely,6-8 hours,Average,High,Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Average,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Moderate,Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Average,Less than 5 hours,Rarely,More than 8 hours,Very Unhealthy,High,Slightly Supportive,Hostel,High Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Never,More than 8 hours,Average,Very High,Supportive,With Family,High Stress
+Low,Moderate,Average,7-8 hours,Daily,4-6 hours,Mostly Healthy,High,Unsupportive,Rented Alone,Healthy
+High,Heavy,Poor,5-6 hours,Never,More than 8 hours,Unhealthy,Very Low,Supportive,Hostel,High Stress
+High,Moderate,Below Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,High,Very Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Good,More than 8 hours,Sometimes,4-6 hours,Average,High,Very Supportive,With Family,Healthy
+High,Moderate,Good,7-8 hours,Regularly,6-8 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Light,Good,More than 8 hours,Regularly,2-4 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,7-8 hours,Sometimes,4-6 hours,Average,High,Very Unsupportive,With Family,Moderate Stress
+Moderate,Heavy,Average,6-7 hours,Regularly,6-8 hours,Very Healthy,Low,Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,6-7 hours,Rarely,4-6 hours,Average,Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Below Average,5-6 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,5-6 hours,Rarely,2-4 hours,Average,Low,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Light,Below Average,6-7 hours,Regularly,2-4 hours,Average,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Below Average,6-7 hours,Regularly,2-4 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+Very High,Extremely Heavy,Average,Less than 5 hours,Rarely,6-8 hours,Very Unhealthy,High,Supportive,With Family,High Stress
+Very High,Very Heavy,Poor,5-6 hours,Never,6-8 hours,Unhealthy,Very High,Slightly Supportive,Rented Alone,High Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Very Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Average,5-6 hours,Rarely,6-8 hours,Very Unhealthy,Moderate,Very Supportive,With Family,High Stress
+Low,Moderate,Excellent,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Heavy,Below Average,5-6 hours,Never,More than 8 hours,Mostly Healthy,Low,Very Unsupportive,Shared Accommodation,High Stress
+Moderate,Light,Good,7-8 hours,Regularly,2-4 hours,Very Healthy,Low,Supportive,Shared Accommodation,Healthy
+High,Heavy,Below Average,5-6 hours,Rarely,4-6 hours,Mostly Healthy,High,Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Good,7-8 hours,Rarely,4-6 hours,Mostly Healthy,High,Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Good,6-7 hours,Rarely,2-4 hours,Very Healthy,High,Supportive,With Family,Moderate Stress
+High,Heavy,Average,6-7 hours,Sometimes,More than 8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Moderate,Light,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Low,Light,Excellent,More than 8 hours,Regularly,2-4 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,Moderate,Unsupportive,Rented Alone,High Stress
+Very High,Very Heavy,Average,Less than 5 hours,Never,More than 8 hours,Average,Very High,Supportive,With Family,High Stress
+High,Very Heavy,Below Average,7-8 hours,Never,4-6 hours,Average,Moderate,Supportive,With Family,Moderate Stress
+High,Heavy,Below Average,7-8 hours,Sometimes,6-8 hours,Average,Very Low,Supportive,Hostel,Moderate Stress
+High,Heavy,Below Average,7-8 hours,Never,6-8 hours,Mostly Healthy,Very High,Very Supportive,Hostel,Moderate Stress
+Moderate,Light,Good,More than 8 hours,Daily,Less than 2 hours,Average,Very Low,Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Average,6-7 hours,Regularly,2-4 hours,Mostly Healthy,Low,Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Moderate,Very Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Average,6-7 hours,Rarely,2-4 hours,Average,Very High,Very Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Below Average,6-7 hours,Rarely,More than 8 hours,Unhealthy,Very High,Supportive,Shared Accommodation,High Stress
+Low,Very Light,Excellent,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Very Supportive,With Family,Healthy
+High,Heavy,Good,7-8 hours,Sometimes,6-8 hours,Average,Very High,Very Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,6-7 hours,Rarely,More than 8 hours,Unhealthy,Moderate,Supportive,Hostel,High Stress
+Moderate,Moderate,Below Average,6-7 hours,Regularly,4-6 hours,Mostly Healthy,High,Very Supportive,With Family,Healthy
+Very Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Moderate,Light,Good,More than 8 hours,Sometimes,Less than 2 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,7-8 hours,Never,6-8 hours,Mostly Healthy,High,Very Supportive,Hostel,Moderate Stress
+Very Low,Light,Excellent,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Very Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Good,6-7 hours,Rarely,4-6 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Below Average,7-8 hours,Never,4-6 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Moderate Stress
+High,Very Heavy,Below Average,6-7 hours,Rarely,4-6 hours,Unhealthy,Very High,Supportive,With Family,Moderate Stress
+Moderate,Moderate,Good,More than 8 hours,Rarely,2-4 hours,Very Healthy,Moderate,Supportive,With Family,Healthy
+Very High,Very Heavy,Average,Less than 5 hours,Rarely,6-8 hours,Unhealthy,Low,Very Unsupportive,Shared Accommodation,High Stress
+Low,Moderate,Excellent,7-8 hours,Regularly,2-4 hours,Mostly Healthy,High,Very Unsupportive,Rented Alone,Healthy
+High,Very Heavy,Average,7-8 hours,Never,6-8 hours,Mostly Healthy,High,Very Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Below Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,High,Slightly Supportive,Rented Alone,Moderate Stress
+Very High,Heavy,Poor,5-6 hours,Sometimes,6-8 hours,Unhealthy,Low,Supportive,Shared Accommodation,High Stress
+Low,Light,Good,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Low,Moderate,Excellent,7-8 hours,Daily,4-6 hours,Very Healthy,High,Slightly Supportive,Hostel,Healthy
+Low,Moderate,Good,7-8 hours,Sometimes,2-4 hours,Very Healthy,Very Low,Supportive,Hostel,Healthy
+Very High,Heavy,Below Average,7-8 hours,Sometimes,6-8 hours,Very Unhealthy,High,Very Supportive,With Family,Moderate Stress
+Very High,Heavy,Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Very Low,Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Below Average,5-6 hours,Rarely,6-8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Excellent,7-8 hours,Rarely,2-4 hours,Very Healthy,Very Low,Very Supportive,Hostel,Moderate Stress
+Very Low,Very Light,Average,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,High,Supportive,Hostel,Healthy
+Very Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Very Healthy,Very High,Very Unsupportive,With Family,Healthy
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Moderate,Supportive,Hostel,Moderate Stress
+Moderate,Light,Good,7-8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Low,Moderate,Excellent,More than 8 hours,Sometimes,2-4 hours,Mostly Healthy,Very High,Very Supportive,Hostel,Healthy
+Low,Light,Good,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Poor,Less than 5 hours,Rarely,More than 8 hours,Average,High,Supportive,With Family,High Stress
+Very Low,Very Light,Good,More than 8 hours,Daily,2-4 hours,Mostly Healthy,High,Supportive,Hostel,Healthy
+Very High,Heavy,Below Average,5-6 hours,Never,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+Very Low,Light,Excellent,More than 8 hours,Daily,2-4 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Unhealthy,Low,Slightly Supportive,Shared Accommodation,High Stress
+Low,Light,Excellent,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Low,Supportive,Hostel,Healthy
+Low,Light,Excellent,More than 8 hours,Regularly,4-6 hours,Very Healthy,Very High,Very Supportive,With Family,Healthy
+Moderate,Heavy,Poor,5-6 hours,Rarely,2-4 hours,Very Healthy,High,Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Good,6-7 hours,Rarely,4-6 hours,Mostly Healthy,High,Slightly Supportive,With Family,Moderate Stress
+Moderate,Heavy,Average,6-7 hours,Regularly,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Very Heavy,Good,6-7 hours,Never,More than 8 hours,Average,Very Low,Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Below Average,5-6 hours,Never,4-6 hours,Very Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+Low,Light,Excellent,More than 8 hours,Sometimes,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,6-7 hours,Never,6-8 hours,Unhealthy,Very High,Very Supportive,Shared Accommodation,High Stress
+Low,Moderate,Average,More than 8 hours,Daily,4-6 hours,Mostly Healthy,Moderate,Unsupportive,Rented Alone,Healthy
+Low,Moderate,Excellent,7-8 hours,Daily,4-6 hours,Mostly Healthy,High,Slightly Supportive,Hostel,Healthy
+Very Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Very Low,Very Unsupportive,Rented Alone,Healthy
+Very High,Very Heavy,Below Average,5-6 hours,Never,More than 8 hours,Average,Very Low,Very Unsupportive,Hostel,High Stress
+High,Heavy,Average,6-7 hours,Rarely,More than 8 hours,Mostly Healthy,High,Supportive,With Family,Moderate Stress
+Low,Moderate,Average,6-7 hours,Sometimes,4-6 hours,Very Healthy,High,Slightly Supportive,Rented Alone,Healthy
+High,Heavy,Below Average,7-8 hours,Never,More than 8 hours,Unhealthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Average,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Low,Very Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Good,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Very Supportive,Hostel,Healthy
+Moderate,Moderate,Good,7-8 hours,Regularly,6-8 hours,Very Healthy,Moderate,Very Supportive,With Family,Healthy
+Low,Moderate,Good,7-8 hours,Regularly,4-6 hours,Very Healthy,Low,Very Unsupportive,Hostel,Healthy
+Low,Moderate,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Very Unsupportive,Shared Accommodation,Healthy
+High,Very Heavy,Average,6-7 hours,Sometimes,More than 8 hours,Mostly Healthy,Very High,Very Supportive,With Family,Moderate Stress
+High,Very Heavy,Below Average,5-6 hours,Never,4-6 hours,Average,Moderate,Slightly Supportive,Hostel,High Stress
+Very Low,Light,Good,7-8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Heavy,Below Average,5-6 hours,Regularly,6-8 hours,Mostly Healthy,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Below Average,7-8 hours,Never,4-6 hours,Mostly Healthy,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Excellent,More than 8 hours,Sometimes,6-8 hours,Average,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Average,Less than 5 hours,Never,More than 8 hours,Average,High,Very Supportive,With Family,High Stress
+High,Heavy,Poor,5-6 hours,Rarely,4-6 hours,Unhealthy,Low,Supportive,Hostel,High Stress
+Moderate,Heavy,Good,6-7 hours,Regularly,4-6 hours,Mostly Healthy,Low,Very Unsupportive,Rented Alone,Moderate Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Moderate,Supportive,Hostel,Moderate Stress
+Low,Moderate,Good,More than 8 hours,Daily,4-6 hours,Very Healthy,Very High,Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Poor,6-7 hours,Never,More than 8 hours,Very Unhealthy,High,Supportive,Shared Accommodation,High Stress
+High,Moderate,Good,6-7 hours,Rarely,2-4 hours,Average,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Very Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Low,Supportive,Shared Accommodation,Healthy
+Low,Moderate,Good,7-8 hours,Daily,4-6 hours,Very Healthy,Low,Unsupportive,Rented Alone,Healthy
+Very High,Heavy,Below Average,6-7 hours,Sometimes,More than 8 hours,Average,Very High,Very Unsupportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,5-6 hours,Regularly,2-4 hours,Mostly Healthy,Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Average,5-6 hours,Sometimes,6-8 hours,Mostly Healthy,Low,Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Excellent,More than 8 hours,Sometimes,6-8 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+High,Moderate,Good,7-8 hours,Regularly,4-6 hours,Unhealthy,Very High,Slightly Supportive,With Family,Moderate Stress
+Moderate,Moderate,Average,7-8 hours,Regularly,2-4 hours,Average,Low,Slightly Supportive,Rented Alone,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Supportive,With Family,Healthy
+Very Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Very Low,Supportive,Rented Alone,Healthy
+Low,Moderate,Good,7-8 hours,Regularly,4-6 hours,Mostly Healthy,High,Very Supportive,Hostel,Healthy
+Low,Moderate,Average,7-8 hours,Sometimes,2-4 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+Moderate,Heavy,Below Average,5-6 hours,Regularly,2-4 hours,Average,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Average,6-7 hours,Regularly,4-6 hours,Average,High,Very Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Average,Less than 5 hours,Rarely,6-8 hours,Very Unhealthy,Very High,Supportive,With Family,High Stress
+Very High,Extremely Heavy,Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,High,Very Unsupportive,With Family,High Stress
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Very High,Supportive,Hostel,Healthy
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Average,High,Slightly Supportive,Hostel,Moderate Stress
+Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Slightly Supportive,With Family,Healthy
+Very High,Extremely Heavy,Poor,Less than 5 hours,Rarely,More than 8 hours,Very Unhealthy,High,Very Unsupportive,Rented Alone,High Stress
+Low,Moderate,Good,7-8 hours,Daily,Less than 2 hours,Very Healthy,Low,Very Unsupportive,Hostel,Healthy
+High,Moderate,Average,6-7 hours,Sometimes,2-4 hours,Mostly Healthy,Moderate,Slightly Supportive,With Family,Moderate Stress
+Very High,Extremely Heavy,Average,5-6 hours,Never,6-8 hours,Very Unhealthy,Low,Very Supportive,Shared Accommodation,High Stress
+Moderate,Light,Excellent,7-8 hours,Sometimes,Less than 2 hours,Average,Low,Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Rarely,6-8 hours,Unhealthy,Moderate,Very Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Good,6-7 hours,Sometimes,4-6 hours,Average,Moderate,Unsupportive,Rented Alone,Moderate Stress
+High,Heavy,Average,6-7 hours,Never,More than 8 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,5-6 hours,Rarely,More than 8 hours,Average,Moderate,Very Unsupportive,With Family,High Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Unhealthy,Low,Supportive,Hostel,High Stress
+Moderate,Moderate,Good,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Very High,Slightly Supportive,Hostel,Healthy
+High,Heavy,Average,5-6 hours,Rarely,More than 8 hours,Average,High,Very Unsupportive,With Family,High Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,More than 8 hours,Unhealthy,Very Low,Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Unhealthy,High,Supportive,Hostel,High Stress
+Moderate,Heavy,Below Average,5-6 hours,Regularly,6-8 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Very Heavy,Below Average,7-8 hours,Rarely,More than 8 hours,Unhealthy,Very Low,Very Unsupportive,Rented Alone,High Stress
+Very Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,Healthy
+Very Low,Light,Excellent,7-8 hours,Daily,Less than 2 hours,Very Healthy,High,Slightly Supportive,With Family,Healthy
+Very High,Heavy,Poor,6-7 hours,Rarely,6-8 hours,Unhealthy,Very High,Supportive,With Family,High Stress
+Very High,Very Heavy,Poor,5-6 hours,Never,More than 8 hours,Very Unhealthy,Low,Slightly Supportive,Rented Alone,High Stress
+Very High,Very Heavy,Poor,5-6 hours,Never,6-8 hours,Average,Moderate,Very Unsupportive,Rented Alone,High Stress
+High,Moderate,Good,7-8 hours,Regularly,6-8 hours,Average,High,Supportive,With Family,Moderate Stress
+Moderate,Moderate,Good,6-7 hours,Regularly,6-8 hours,Very Healthy,Moderate,Supportive,Hostel,Moderate Stress
+High,Heavy,Average,5-6 hours,Rarely,6-8 hours,Average,High,Unsupportive,Rented Alone,High Stress
+High,Moderate,Below Average,7-8 hours,Regularly,6-8 hours,Average,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Light,Good,7-8 hours,Daily,2-4 hours,Average,Very Low,Very Unsupportive,Shared Accommodation,Moderate Stress
+High,Very Heavy,Good,6-7 hours,Never,More than 8 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,High Stress
+Very High,Heavy,Poor,6-7 hours,Sometimes,4-6 hours,Very Unhealthy,Low,Slightly Supportive,Hostel,High Stress
+High,Heavy,Average,6-7 hours,Sometimes,4-6 hours,Unhealthy,High,Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Very Unhealthy,Very High,Unsupportive,Rented Alone,High Stress
+High,Very Heavy,Average,7-8 hours,Rarely,More than 8 hours,Mostly Healthy,Moderate,Very Supportive,With Family,Moderate Stress
+Low,Light,Excellent,7-8 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,Healthy
+High,Heavy,Below Average,6-7 hours,Never,6-8 hours,Average,High,Very Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Good,More than 8 hours,Sometimes,2-4 hours,Average,High,Very Supportive,Shared Accommodation,Healthy
+Moderate,Light,Below Average,6-7 hours,Daily,Less than 2 hours,Average,Moderate,Slightly Supportive,Rented Alone,Moderate Stress
+Low,Light,Excellent,7-8 hours,Sometimes,4-6 hours,Very Healthy,Very High,Unsupportive,Rented Alone,Healthy
+Moderate,Moderate,Excellent,More than 8 hours,Rarely,4-6 hours,Average,Low,Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,More than 8 hours,Unhealthy,Moderate,Very Supportive,Hostel,High Stress
+Very High,Heavy,Below Average,6-7 hours,Never,6-8 hours,Average,Very Low,Very Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Poor,7-8 hours,Sometimes,6-8 hours,Average,Moderate,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Good,6-7 hours,Rarely,4-6 hours,Average,Very High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Unhealthy,Moderate,Very Unsupportive,Hostel,High Stress
+Moderate,Light,Average,6-7 hours,Daily,Less than 2 hours,Mostly Healthy,Low,Supportive,Shared Accommodation,Healthy
+Low,Moderate,Average,6-7 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Supportive,With Family,Healthy
+Moderate,Heavy,Poor,5-6 hours,Rarely,6-8 hours,Average,Very Low,Very Unsupportive,Shared Accommodation,High Stress
+Low,Moderate,Good,7-8 hours,Daily,4-6 hours,Very Healthy,Low,Very Unsupportive,Rented Alone,Healthy
+Low,Moderate,Average,6-7 hours,Daily,Less than 2 hours,Mostly Healthy,Very High,Supportive,Hostel,Healthy
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Very Healthy,High,Very Unsupportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Good,6-7 hours,Daily,2-4 hours,Very Healthy,Low,Slightly Supportive,Hostel,Healthy
+Moderate,Light,Good,7-8 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Supportive,Rented Alone,Healthy
+High,Moderate,Average,5-6 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Supportive,Rented Alone,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,4-6 hours,Average,Very Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Very Healthy,Very High,Very Unsupportive,Rented Alone,Healthy
+Very Low,Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,Very Low,Slightly Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Average,Moderate,Supportive,Hostel,High Stress
+High,Heavy,Average,5-6 hours,Never,6-8 hours,Unhealthy,Low,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Excellent,7-8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Average,5-6 hours,Regularly,6-8 hours,Very Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Rarely,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Moderate,Average,7-8 hours,Sometimes,2-4 hours,Unhealthy,High,Supportive,Hostel,Moderate Stress
+Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Below Average,6-7 hours,Sometimes,2-4 hours,Mostly Healthy,Low,Supportive,Hostel,Moderate Stress
+High,Moderate,Average,5-6 hours,Rarely,2-4 hours,Unhealthy,Very High,Very Supportive,With Family,Moderate Stress
+Moderate,Moderate,Good,7-8 hours,Sometimes,6-8 hours,Very Healthy,High,Slightly Supportive,With Family,Moderate Stress
+Very Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+Very High,Heavy,Below Average,7-8 hours,Never,4-6 hours,Average,Moderate,Very Unsupportive,Hostel,High Stress
+High,Moderate,Good,7-8 hours,Regularly,6-8 hours,Mostly Healthy,Low,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+Low,Moderate,Good,6-7 hours,Sometimes,2-4 hours,Very Healthy,Very Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Good,6-7 hours,Sometimes,2-4 hours,Very Healthy,Very Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Very Unsupportive,With Family,Healthy
+Low,Light,Average,7-8 hours,Daily,4-6 hours,Very Healthy,Very High,Very Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,6-7 hours,Never,More than 8 hours,Average,Low,Slightly Supportive,Rented Alone,High Stress
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,Very High,Supportive,With Family,High Stress
+High,Heavy,Average,7-8 hours,Never,6-8 hours,Mostly Healthy,High,Slightly Supportive,With Family,Moderate Stress
+Moderate,Moderate,Good,6-7 hours,Regularly,6-8 hours,Average,Moderate,Supportive,Rented Alone,Moderate Stress
+High,Very Heavy,Good,6-7 hours,Never,4-6 hours,Mostly Healthy,Very High,Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Rarely,6-8 hours,Very Unhealthy,Moderate,Supportive,Rented Alone,High Stress
+High,Heavy,Average,7-8 hours,Sometimes,More than 8 hours,Mostly Healthy,Very High,Supportive,Hostel,Moderate Stress
+Low,Moderate,Good,7-8 hours,Sometimes,4-6 hours,Very Healthy,Low,Very Unsupportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Poor,6-7 hours,Never,More than 8 hours,Unhealthy,High,Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Below Average,6-7 hours,Sometimes,4-6 hours,Very Healthy,High,Very Supportive,With Family,Moderate Stress
+Very Low,Light,Average,7-8 hours,Daily,Less than 2 hours,Very Healthy,Very Low,Unsupportive,Rented Alone,Healthy
+Very High,Extremely Heavy,Poor,5-6 hours,Never,6-8 hours,Very Unhealthy,Moderate,Very Supportive,Shared Accommodation,High Stress
+Low,Light,Good,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Very High,Unsupportive,Rented Alone,Healthy
+Very High,Extremely Heavy,Average,Less than 5 hours,Rarely,More than 8 hours,Unhealthy,Very High,Supportive,With Family,High Stress
+Very High,Extremely Heavy,Average,6-7 hours,Never,6-8 hours,Average,High,Very Supportive,Hostel,High Stress
+Low,Moderate,Average,6-7 hours,Regularly,2-4 hours,Very Healthy,Moderate,Very Unsupportive,Rented Alone,Healthy
+Moderate,Heavy,Below Average,6-7 hours,Rarely,2-4 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Excellent,More than 8 hours,Sometimes,2-4 hours,Mostly Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,6-7 hours,Rarely,4-6 hours,Unhealthy,High,Supportive,Hostel,Moderate Stress
+Very High,Heavy,Average,6-7 hours,Rarely,More than 8 hours,Unhealthy,Moderate,Very Supportive,With Family,High Stress
+High,Very Heavy,Average,7-8 hours,Sometimes,6-8 hours,Mostly Healthy,Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Average,5-6 hours,Rarely,6-8 hours,Average,Very High,Very Unsupportive,Hostel,High Stress
+Low,Moderate,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Very Supportive,With Family,Healthy
+Very High,Heavy,Below Average,5-6 hours,Sometimes,4-6 hours,Average,Moderate,Unsupportive,Rented Alone,High Stress
+Low,Moderate,Below Average,6-7 hours,Regularly,4-6 hours,Mostly Healthy,Moderate,Very Supportive,Hostel,Healthy
+Very High,Very Heavy,Poor,Less than 5 hours,Never,6-8 hours,Unhealthy,Very Low,Very Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Average,More than 8 hours,Rarely,4-6 hours,Mostly Healthy,High,Very Supportive,With Family,Healthy
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Very High,Very Unsupportive,With Family,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,More than 8 hours,Average,High,Slightly Supportive,Hostel,High Stress
+Very High,Heavy,Average,6-7 hours,Sometimes,4-6 hours,Very Unhealthy,Low,Supportive,Hostel,High Stress
+Low,Moderate,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Low,Light,Excellent,More than 8 hours,Sometimes,4-6 hours,Very Healthy,Moderate,Slightly Supportive,With Family,Healthy
+Very Low,Light,Good,7-8 hours,Regularly,2-4 hours,Very Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Moderate,Good,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,High,Unsupportive,Rented Alone,Moderate Stress
+Low,Light,Excellent,7-8 hours,Sometimes,4-6 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Average,5-6 hours,Rarely,6-8 hours,Mostly Healthy,Moderate,Supportive,Rented Alone,Moderate Stress
+Very Low,Very Light,Good,More than 8 hours,Daily,2-4 hours,Mostly Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+High,Moderate,Below Average,5-6 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,Very High,Very Supportive,Shared Accommodation,High Stress
+High,Moderate,Good,6-7 hours,Regularly,6-8 hours,Unhealthy,High,Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,7-8 hours,Never,4-6 hours,Average,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Very Heavy,Average,5-6 hours,Never,4-6 hours,Unhealthy,Low,Slightly Supportive,Rented Alone,High Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Average,6-7 hours,Regularly,4-6 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Very High,Extremely Heavy,Below Average,6-7 hours,Never,6-8 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,High Stress
+Very Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Very High,Very Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Poor,5-6 hours,Never,More than 8 hours,Unhealthy,Very High,Slightly Supportive,Hostel,High Stress
+Moderate,Heavy,Below Average,5-6 hours,Rarely,4-6 hours,Average,Very High,Very Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Below Average,6-7 hours,Regularly,6-8 hours,Average,Moderate,Supportive,Rented Alone,Moderate Stress
+High,Moderate,Average,6-7 hours,Regularly,4-6 hours,Average,Very High,Slightly Supportive,With Family,Moderate Stress
+High,Heavy,Good,6-7 hours,Sometimes,More than 8 hours,Mostly Healthy,Low,Supportive,Hostel,Moderate Stress
+High,Very Heavy,Average,6-7 hours,Never,6-8 hours,Average,High,Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Poor,6-7 hours,Never,More than 8 hours,Average,Low,Very Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Excellent,More than 8 hours,Sometimes,4-6 hours,Average,High,Supportive,Shared Accommodation,Healthy
+Very Low,Light,Average,7-8 hours,Daily,2-4 hours,Very Healthy,Very Low,Supportive,Shared Accommodation,Healthy
+High,Moderate,Below Average,5-6 hours,Rarely,6-8 hours,Unhealthy,Low,Slightly Supportive,Shared Accommodation,High Stress
+Very Low,Light,Good,7-8 hours,Daily,Less than 2 hours,Mostly Healthy,Very Low,Slightly Supportive,Hostel,Healthy
+High,Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,Moderate,Very Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Light,Average,6-7 hours,Regularly,Less than 2 hours,Mostly Healthy,High,Slightly Supportive,Hostel,Healthy
+Low,Moderate,Excellent,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Low,Light,Excellent,7-8 hours,Daily,4-6 hours,Mostly Healthy,Low,Slightly Supportive,Rented Alone,Healthy
+Moderate,Moderate,Average,7-8 hours,Regularly,4-6 hours,Average,High,Very Unsupportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,5-6 hours,Rarely,4-6 hours,Average,Very High,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Excellent,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,High,Unsupportive,Rented Alone,Moderate Stress
+Very High,Heavy,Below Average,5-6 hours,Sometimes,More than 8 hours,Very Unhealthy,Low,Very Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,Low,Supportive,Hostel,High Stress
+Moderate,Heavy,Average,6-7 hours,Regularly,6-8 hours,Very Healthy,Moderate,Very Unsupportive,Hostel,Moderate Stress
+Low,Moderate,Good,6-7 hours,Sometimes,4-6 hours,Very Healthy,High,Slightly Supportive,With Family,Healthy
+High,Heavy,Good,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Low,Slightly Supportive,Rented Alone,Moderate Stress
+Very High,Very Heavy,Poor,6-7 hours,Never,More than 8 hours,Unhealthy,Low,Very Supportive,Shared Accommodation,High Stress
+Low,Moderate,Good,7-8 hours,Regularly,2-4 hours,Mostly Healthy,High,Supportive,Hostel,Healthy
+Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,Low,Slightly Supportive,Hostel,Healthy
+High,Moderate,Average,7-8 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Very Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,4-6 hours,Average,High,Slightly Supportive,Hostel,Moderate Stress
+High,Moderate,Below Average,5-6 hours,Rarely,2-4 hours,Unhealthy,Moderate,Supportive,Hostel,High Stress
+Very High,Heavy,Below Average,7-8 hours,Rarely,6-8 hours,Very Unhealthy,Very High,Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Average,6-7 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Very Supportive,Shared Accommodation,High Stress
+Low,Light,Excellent,More than 8 hours,Sometimes,Less than 2 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Poor,5-6 hours,Rarely,2-4 hours,Very Healthy,High,Supportive,With Family,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Rarely,4-6 hours,Average,High,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Average,More than 8 hours,Sometimes,4-6 hours,Mostly Healthy,High,Very Unsupportive,With Family,Healthy
+High,Very Heavy,Good,6-7 hours,Sometimes,6-8 hours,Unhealthy,Low,Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Never,6-8 hours,Very Unhealthy,Very High,Slightly Supportive,Hostel,High Stress
+High,Heavy,Poor,5-6 hours,Rarely,More than 8 hours,Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Moderate,Good,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Low,Very Unsupportive,Hostel,High Stress
+Low,Light,Good,7-8 hours,Daily,Less than 2 hours,Mostly Healthy,High,Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,5-6 hours,Rarely,More than 8 hours,Average,Moderate,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Good,7-8 hours,Rarely,2-4 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,Very High,Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Below Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,Very High,Slightly Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Poor,5-6 hours,Never,4-6 hours,Average,Very Low,Very Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Average,6-7 hours,Sometimes,2-4 hours,Mostly Healthy,Moderate,Very Unsupportive,Hostel,Moderate Stress
+High,Moderate,Good,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Good,6-7 hours,Sometimes,4-6 hours,Average,Moderate,Very Supportive,With Family,Moderate Stress
+High,Moderate,Average,6-7 hours,Sometimes,4-6 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Low,Moderate,Good,7-8 hours,Daily,2-4 hours,Very Healthy,Very High,Slightly Supportive,Shared Accommodation,Healthy
+Low,Moderate,Excellent,More than 8 hours,Daily,4-6 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Excellent,More than 8 hours,Regularly,2-4 hours,Average,Moderate,Very Supportive,With Family,Healthy
+High,Moderate,Below Average,5-6 hours,Sometimes,6-8 hours,Average,Moderate,Very Unsupportive,Hostel,High Stress
+Low,Moderate,Good,7-8 hours,Daily,4-6 hours,Very Healthy,High,Very Unsupportive,Rented Alone,Healthy
+High,Moderate,Average,6-7 hours,Regularly,6-8 hours,Mostly Healthy,Very Low,Very Unsupportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Average,7-8 hours,Never,6-8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,Less than 5 hours,Rarely,More than 8 hours,Unhealthy,High,Very Supportive,With Family,High Stress
+Very Low,Light,Average,More than 8 hours,Daily,2-4 hours,Mostly Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Moderate,Excellent,7-8 hours,Regularly,2-4 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Below Average,7-8 hours,Never,4-6 hours,Average,Moderate,Supportive,Hostel,High Stress
+Moderate,Heavy,Good,7-8 hours,Regularly,2-4 hours,Average,Moderate,Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Poor,6-7 hours,Rarely,6-8 hours,Average,Moderate,Unsupportive,Rented Alone,High Stress
+High,Moderate,Average,6-7 hours,Regularly,4-6 hours,Unhealthy,High,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Average,6-7 hours,Rarely,4-6 hours,Average,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Poor,5-6 hours,Sometimes,2-4 hours,Unhealthy,Moderate,Supportive,With Family,Moderate Stress
+Very High,Extremely Heavy,Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+Very High,Heavy,Average,7-8 hours,Sometimes,More than 8 hours,Very Unhealthy,Low,Slightly Supportive,Hostel,High Stress
+High,Very Heavy,Good,7-8 hours,Never,4-6 hours,Unhealthy,Very Low,Slightly Supportive,Hostel,High Stress
+High,Moderate,Below Average,5-6 hours,Regularly,4-6 hours,Mostly Healthy,Very Low,Slightly Supportive,Rented Alone,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,4-6 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+Very Low,Light,Good,7-8 hours,Daily,Less than 2 hours,Mostly Healthy,Very High,Very Supportive,With Family,Healthy
+Moderate,Light,Average,6-7 hours,Sometimes,4-6 hours,Very Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Low,Light,Excellent,7-8 hours,Regularly,4-6 hours,Mostly Healthy,Very Low,Very Unsupportive,Rented Alone,Moderate Stress
+Low,Moderate,Good,6-7 hours,Sometimes,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Very High,Heavy,Below Average,6-7 hours,Rarely,More than 8 hours,Unhealthy,Very High,Very Unsupportive,Hostel,High Stress
+Moderate,Moderate,Good,6-7 hours,Sometimes,2-4 hours,Average,High,Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Good,More than 8 hours,Regularly,2-4 hours,Average,Very Low,Slightly Supportive,Rented Alone,Moderate Stress
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Below Average,5-6 hours,Never,4-6 hours,Mostly Healthy,Moderate,Supportive,With Family,High Stress
+Low,Light,Excellent,7-8 hours,Regularly,2-4 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Average,Less than 5 hours,Never,6-8 hours,Average,High,Slightly Supportive,Hostel,High Stress
+High,Heavy,Below Average,6-7 hours,Rarely,More than 8 hours,Average,High,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Rarely,More than 8 hours,Average,Moderate,Very Unsupportive,Rented Alone,High Stress
+Very High,Heavy,Poor,6-7 hours,Rarely,6-8 hours,Unhealthy,Very Low,Slightly Supportive,Shared Accommodation,High Stress
+High,Heavy,Below Average,6-7 hours,Never,More than 8 hours,Average,Very High,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Below Average,6-7 hours,Sometimes,2-4 hours,Mostly Healthy,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Very Low,Light,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,High,Slightly Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Average,5-6 hours,Never,4-6 hours,Average,Low,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,6-7 hours,Regularly,4-6 hours,Average,Very Low,Supportive,Hostel,Moderate Stress
+Very High,Heavy,Below Average,5-6 hours,Rarely,4-6 hours,Average,High,Very Unsupportive,Shared Accommodation,High Stress
+Very High,Heavy,Average,6-7 hours,Never,4-6 hours,Unhealthy,Very Low,Slightly Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Average,Low,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Poor,5-6 hours,Rarely,4-6 hours,Very Healthy,High,Supportive,With Family,Moderate Stress
+High,Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Unhealthy,High,Very Unsupportive,Hostel,High Stress
+High,Heavy,Average,6-7 hours,Sometimes,More than 8 hours,Unhealthy,Moderate,Supportive,Rented Alone,Moderate Stress
+Low,Light,Excellent,More than 8 hours,Daily,2-4 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Moderate,Light,Average,6-7 hours,Regularly,Less than 2 hours,Average,Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Below Average,6-7 hours,Never,6-8 hours,Unhealthy,Low,Supportive,Shared Accommodation,High Stress
+Low,Moderate,Good,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Very High,Unsupportive,Rented Alone,Healthy
+Very Low,Light,Average,7-8 hours,Daily,Less than 2 hours,Very Healthy,Very Low,Supportive,Shared Accommodation,Healthy
+Low,Moderate,Excellent,More than 8 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Very Unsupportive,Hostel,Healthy
+Very High,Very Heavy,Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,High,Supportive,With Family,High Stress
+Very Low,Light,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Average,7-8 hours,Never,4-6 hours,Average,Moderate,Very Unsupportive,Rented Alone,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Supportive,Shared Accommodation,Healthy
+Moderate,Light,Excellent,7-8 hours,Daily,2-4 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Low,Moderate,Average,More than 8 hours,Daily,4-6 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Very Healthy,Low,Slightly Supportive,Hostel,Moderate Stress
+High,Moderate,Average,6-7 hours,Regularly,2-4 hours,Average,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,7-8 hours,Rarely,More than 8 hours,Unhealthy,Low,Supportive,Hostel,High Stress
+Very High,Heavy,Average,6-7 hours,Never,4-6 hours,Unhealthy,Low,Supportive,Shared Accommodation,High Stress
+Very Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Very Low,Supportive,Rented Alone,Healthy
+Very Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,Moderate,Very Supportive,With Family,Healthy
+High,Heavy,Good,6-7 hours,Never,6-8 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,6-8 hours,Unhealthy,Low,Very Supportive,Shared Accommodation,High Stress
+Low,Moderate,Average,6-7 hours,Regularly,Less than 2 hours,Very Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Below Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Very Supportive,Hostel,Moderate Stress
+Low,Light,Excellent,7-8 hours,Daily,4-6 hours,Very Healthy,Moderate,Very Unsupportive,Hostel,Healthy
+Moderate,Moderate,Good,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Very High,Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Poor,6-7 hours,Rarely,6-8 hours,Unhealthy,Low,Very Unsupportive,Hostel,High Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Average,High,Supportive,With Family,High Stress
+Moderate,Heavy,Excellent,7-8 hours,Regularly,6-8 hours,Mostly Healthy,Very High,Supportive,Hostel,Healthy
+Moderate,Heavy,Average,7-8 hours,Rarely,6-8 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Rarely,4-6 hours,Average,Moderate,Very Unsupportive,Hostel,High Stress
+Moderate,Heavy,Good,7-8 hours,Sometimes,4-6 hours,Mostly Healthy,Very High,Supportive,With Family,Healthy
+Very High,Heavy,Average,6-7 hours,Rarely,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,With Family,High Stress
+Very Low,Light,Excellent,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,High,Slightly Supportive,Hostel,Healthy
+Moderate,Heavy,Good,7-8 hours,Sometimes,2-4 hours,Average,High,Unsupportive,Rented Alone,Moderate Stress
+Very Low,Light,Excellent,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Low,Very Unsupportive,Shared Accommodation,Healthy
+Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Very Supportive,With Family,Healthy
+Low,Moderate,Average,6-7 hours,Daily,4-6 hours,Very Healthy,High,Unsupportive,Rented Alone,Healthy
+High,Moderate,Average,7-8 hours,Rarely,2-4 hours,Average,High,Very Unsupportive,Rented Alone,Moderate Stress
+Moderate,Moderate,Good,7-8 hours,Rarely,2-4 hours,Average,High,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,4-6 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Good,7-8 hours,Sometimes,Less than 2 hours,Very Healthy,Low,Slightly Supportive,Hostel,Healthy
+Very Low,Light,Average,More than 8 hours,Daily,2-4 hours,Mostly Healthy,Low,Slightly Supportive,Rented Alone,Healthy
+High,Moderate,Average,7-8 hours,Regularly,4-6 hours,Unhealthy,High,Slightly Supportive,Hostel,Moderate Stress
+High,Heavy,Average,7-8 hours,Sometimes,6-8 hours,Mostly Healthy,High,Very Unsupportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Average,7-8 hours,Regularly,2-4 hours,Average,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Low,Very Light,Average,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Unsupportive,Rented Alone,Healthy
+Moderate,Heavy,Good,7-8 hours,Regularly,4-6 hours,Very Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Never,6-8 hours,Average,Moderate,Slightly Supportive,Hostel,High Stress
+Moderate,Heavy,Good,7-8 hours,Sometimes,4-6 hours,Average,High,Supportive,With Family,Moderate Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Unhealthy,Very High,Very Unsupportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,5-6 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Unsupportive,Rented Alone,High Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Average,High,Slightly Supportive,Shared Accommodation,High Stress
+Low,Moderate,Average,6-7 hours,Sometimes,Less than 2 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Below Average,6-7 hours,Never,6-8 hours,Unhealthy,Very Low,Very Unsupportive,Rented Alone,High Stress
+High,Moderate,Average,7-8 hours,Sometimes,6-8 hours,Unhealthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Rarely,More than 8 hours,Average,High,Very Unsupportive,Hostel,High Stress
+Low,Moderate,Average,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Low,Unsupportive,Rented Alone,Healthy
+Moderate,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Very High,Heavy,Poor,6-7 hours,Sometimes,4-6 hours,Average,Very Low,Supportive,Shared Accommodation,High Stress
+Low,Moderate,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,Very Low,Very Unsupportive,Hostel,Healthy
+Very High,Heavy,Average,6-7 hours,Rarely,6-8 hours,Average,Moderate,Very Supportive,With Family,High Stress
+Very High,Extremely Heavy,Poor,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+High,Heavy,Average,5-6 hours,Sometimes,4-6 hours,Unhealthy,High,Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,2-4 hours,Very Healthy,High,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Below Average,6-7 hours,Sometimes,2-4 hours,Average,Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Good,6-7 hours,Rarely,6-8 hours,Very Healthy,Very Low,Slightly Supportive,Rented Alone,Moderate Stress
+Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Slightly Supportive,Shared Accommodation,Healthy
+Low,Moderate,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Supportive,Rented Alone,Healthy
+High,Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Unhealthy,High,Supportive,Rented Alone,High Stress
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,High,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Excellent,7-8 hours,Regularly,6-8 hours,Average,Very High,Very Unsupportive,Rented Alone,Moderate Stress
+Moderate,Moderate,Good,6-7 hours,Rarely,6-8 hours,Mostly Healthy,Moderate,Slightly Supportive,Hostel,Moderate Stress
+High,Moderate,Average,7-8 hours,Regularly,6-8 hours,Average,Moderate,Slightly Supportive,With Family,Moderate Stress
+Low,Very Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,Very High,Very Supportive,With Family,Healthy
+Very Low,Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Rented Alone,Healthy
+Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Mostly Healthy,Very High,Very Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Average,7-8 hours,Never,More than 8 hours,Very Unhealthy,Very High,Very Supportive,With Family,High Stress
+High,Moderate,Below Average,5-6 hours,Sometimes,6-8 hours,Average,High,Very Unsupportive,Hostel,High Stress
+Very Low,Very Light,Good,7-8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,7-8 hours,Sometimes,6-8 hours,Mostly Healthy,Very Low,Very Unsupportive,Hostel,Moderate Stress
+Moderate,Moderate,Below Average,6-7 hours,Regularly,2-4 hours,Average,Moderate,Supportive,Rented Alone,Moderate Stress
+High,Moderate,Average,7-8 hours,Regularly,6-8 hours,Average,High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Good,7-8 hours,Sometimes,4-6 hours,Very Healthy,Very High,Slightly Supportive,Rented Alone,Healthy
+Very Low,Very Light,Excellent,7-8 hours,Daily,2-4 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Very High,Very Heavy,Below Average,Less than 5 hours,Rarely,More than 8 hours,Average,Moderate,Slightly Supportive,Rented Alone,High Stress
+Moderate,Moderate,Below Average,6-7 hours,Regularly,6-8 hours,Mostly Healthy,Moderate,Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Below Average,5-6 hours,Never,6-8 hours,Very Unhealthy,Moderate,Very Unsupportive,Hostel,High Stress
+Low,Light,Excellent,More than 8 hours,Daily,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+High,Moderate,Below Average,7-8 hours,Regularly,6-8 hours,Unhealthy,High,Unsupportive,Rented Alone,Moderate Stress
+High,Heavy,Good,6-7 hours,Never,More than 8 hours,Average,Moderate,Very Supportive,Hostel,High Stress
+Very High,Very Heavy,Average,Less than 5 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Heavy,Good,7-8 hours,Never,More than 8 hours,Unhealthy,Very High,Very Unsupportive,Rented Alone,High Stress
+Moderate,Light,Average,6-7 hours,Regularly,2-4 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Very Low,Light,Average,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+High,Moderate,Poor,5-6 hours,Rarely,2-4 hours,Mostly Healthy,Very High,Slightly Supportive,Rented Alone,Moderate Stress
+Very Low,Very Light,Average,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Very High,Very Unsupportive,Hostel,Healthy
+Very High,Very Heavy,Poor,Less than 5 hours,Rarely,More than 8 hours,Average,Low,Very Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Average,6-7 hours,Rarely,6-8 hours,Mostly Healthy,Moderate,Supportive,Rented Alone,Moderate Stress
+Moderate,Light,Good,More than 8 hours,Sometimes,Less than 2 hours,Average,Moderate,Slightly Supportive,Rented Alone,Healthy
+Very High,Extremely Heavy,Poor,6-7 hours,Never,More than 8 hours,Average,Moderate,Slightly Supportive,Hostel,High Stress
+Low,Moderate,Average,6-7 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Supportive,Hostel,Healthy
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Average,7-8 hours,Sometimes,More than 8 hours,Average,High,Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Unhealthy,Low,Supportive,Rented Alone,High Stress
+Very High,Heavy,Below Average,5-6 hours,Sometimes,More than 8 hours,Very Unhealthy,Very Low,Supportive,Shared Accommodation,High Stress
+Low,Light,Good,More than 8 hours,Sometimes,4-6 hours,Very Healthy,High,Slightly Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,6-7 hours,Rarely,More than 8 hours,Average,High,Supportive,Hostel,High Stress
+Very High,Heavy,Below Average,6-7 hours,Never,More than 8 hours,Unhealthy,Moderate,Very Supportive,With Family,High Stress
+Very High,Extremely Heavy,Average,5-6 hours,Rarely,More than 8 hours,Average,Very High,Very Supportive,With Family,High Stress
+Moderate,Heavy,Average,7-8 hours,Regularly,2-4 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+Low,Light,Excellent,7-8 hours,Sometimes,Less than 2 hours,Very Healthy,Very High,Slightly Supportive,Hostel,Healthy
+High,Heavy,Average,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Moderate,Very Unsupportive,Shared Accommodation,Moderate Stress
+Very Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Low,Unsupportive,Rented Alone,Healthy
+High,Very Heavy,Below Average,7-8 hours,Rarely,6-8 hours,Unhealthy,Low,Very Unsupportive,Hostel,High Stress
+Low,Moderate,Good,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Average,Very Low,Very Unsupportive,Rented Alone,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Never,6-8 hours,Average,Very Low,Slightly Supportive,Rented Alone,High Stress
+High,Moderate,Average,7-8 hours,Regularly,2-4 hours,Unhealthy,Very Low,Very Unsupportive,Rented Alone,Moderate Stress
+Very High,Very Heavy,Below Average,6-7 hours,Never,More than 8 hours,Average,Moderate,Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,2-4 hours,Very Healthy,Low,Slightly Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Good,7-8 hours,Rarely,6-8 hours,Average,Moderate,Very Supportive,With Family,Moderate Stress
+Low,Light,Good,More than 8 hours,Regularly,4-6 hours,Very Healthy,Low,Supportive,Hostel,Healthy
+Very Low,Light,Average,More than 8 hours,Regularly,2-4 hours,Very Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Low,Moderate,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,High,Slightly Supportive,With Family,Healthy
+Moderate,Heavy,Below Average,6-7 hours,Regularly,2-4 hours,Average,Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,5-6 hours,Never,4-6 hours,Average,High,Supportive,With Family,High Stress
+Very Low,Light,Good,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Low,Moderate,Excellent,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Light,Good,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Low,Very Unsupportive,Hostel,Healthy
+Low,Moderate,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very Low,Supportive,Hostel,Healthy
+Very High,Very Heavy,Average,Less than 5 hours,Never,6-8 hours,Very Unhealthy,High,Very Unsupportive,With Family,High Stress
+High,Very Heavy,Below Average,7-8 hours,Never,6-8 hours,Average,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Excellent,7-8 hours,Regularly,4-6 hours,Average,High,Supportive,With Family,Healthy
+Very High,Extremely Heavy,Average,6-7 hours,Rarely,6-8 hours,Average,Low,Supportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Moderate,Slightly Supportive,Rented Alone,Moderate Stress
+High,Moderate,Below Average,7-8 hours,Regularly,6-8 hours,Average,High,Supportive,With Family,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Never,More than 8 hours,Average,High,Very Unsupportive,Hostel,High Stress
+Moderate,Moderate,Average,6-7 hours,Sometimes,2-4 hours,Average,Low,Very Supportive,Hostel,Moderate Stress
+Very High,Heavy,Below Average,7-8 hours,Rarely,4-6 hours,Unhealthy,Very High,Very Supportive,With Family,Moderate Stress
+Low,Moderate,Average,More than 8 hours,Sometimes,4-6 hours,Very Healthy,High,Slightly Supportive,Hostel,Healthy
+Moderate,Moderate,Excellent,7-8 hours,Rarely,2-4 hours,Mostly Healthy,Very Low,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Sometimes,6-8 hours,Average,High,Slightly Supportive,Hostel,Moderate Stress
+High,Moderate,Below Average,5-6 hours,Sometimes,2-4 hours,Average,Very High,Supportive,With Family,Moderate Stress
+Very Low,Very Light,Good,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Rented Alone,Healthy
+Moderate,Moderate,Average,6-7 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Average,7-8 hours,Rarely,4-6 hours,Unhealthy,Very Low,Very Unsupportive,Rented Alone,High Stress
+High,Moderate,Below Average,5-6 hours,Regularly,4-6 hours,Average,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very Low,Light,Average,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Moderate,Very Supportive,Hostel,Healthy
+High,Heavy,Good,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Moderate,Very Supportive,Hostel,Moderate Stress
+High,Moderate,Average,6-7 hours,Sometimes,4-6 hours,Average,Very Low,Slightly Supportive,Hostel,Moderate Stress
+High,Very Heavy,Below Average,5-6 hours,Sometimes,4-6 hours,Average,Low,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Average,7-8 hours,Rarely,2-4 hours,Mostly Healthy,Low,Very Unsupportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Rarely,6-8 hours,Unhealthy,Very Low,Very Supportive,Hostel,High Stress
+High,Moderate,Average,6-7 hours,Rarely,6-8 hours,Unhealthy,Moderate,Very Unsupportive,With Family,High Stress
+Moderate,Heavy,Below Average,5-6 hours,Regularly,4-6 hours,Very Healthy,Very High,Very Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Below Average,5-6 hours,Rarely,6-8 hours,Mostly Healthy,High,Very Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Average,6-7 hours,Sometimes,2-4 hours,Mostly Healthy,Moderate,Very Unsupportive,Hostel,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Regularly,2-4 hours,Average,Moderate,Very Supportive,Shared Accommodation,Healthy
+High,Moderate,Average,5-6 hours,Sometimes,4-6 hours,Average,Low,Very Unsupportive,Hostel,High Stress
+Moderate,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Average,Very High,Very Unsupportive,Shared Accommodation,Moderate Stress
+High,Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,Very Low,Slightly Supportive,Shared Accommodation,High Stress
+Low,Light,Good,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very Low,Light,Good,More than 8 hours,Daily,2-4 hours,Mostly Healthy,High,Very Unsupportive,Shared Accommodation,Healthy
+High,Moderate,Good,7-8 hours,Sometimes,4-6 hours,Mostly Healthy,High,Unsupportive,Rented Alone,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Never,6-8 hours,Average,Moderate,Very Unsupportive,Shared Accommodation,High Stress
+High,Heavy,Average,6-7 hours,Sometimes,4-6 hours,Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,High,Slightly Supportive,Rented Alone,High Stress
+Very Low,Light,Excellent,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+Low,Light,Good,7-8 hours,Regularly,2-4 hours,Very Healthy,Very High,Very Unsupportive,Rented Alone,Healthy
+Low,Moderate,Below Average,6-7 hours,Daily,4-6 hours,Very Healthy,Moderate,Supportive,Rented Alone,Healthy
+Very High,Extremely Heavy,Below Average,Less than 5 hours,Rarely,6-8 hours,Unhealthy,Very High,Supportive,With Family,High Stress
+Moderate,Heavy,Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Very High,Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Average,7-8 hours,Sometimes,6-8 hours,Average,High,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Moderate,Below Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Supportive,Hostel,Moderate Stress
+Low,Very Light,Average,More than 8 hours,Regularly,2-4 hours,Very Healthy,Very High,Very Supportive,With Family,Healthy
+High,Moderate,Average,6-7 hours,Regularly,2-4 hours,Average,Low,Supportive,Rented Alone,Moderate Stress
+High,Moderate,Average,7-8 hours,Regularly,2-4 hours,Mostly Healthy,Low,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Below Average,6-7 hours,Rarely,2-4 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Sometimes,6-8 hours,Average,Very Low,Very Supportive,Shared Accommodation,High Stress
+Moderate,Light,Average,6-7 hours,Daily,4-6 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+Low,Moderate,Good,More than 8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Low,Moderate,Good,6-7 hours,Regularly,Less than 2 hours,Very Healthy,Low,Very Supportive,Hostel,Healthy
+Very High,Heavy,Average,6-7 hours,Sometimes,More than 8 hours,Very Unhealthy,Very High,Very Supportive,Shared Accommodation,High Stress
+High,Heavy,Average,7-8 hours,Sometimes,More than 8 hours,Mostly Healthy,Very Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Average,7-8 hours,Never,4-6 hours,Unhealthy,Low,Very Supportive,Shared Accommodation,High Stress
+High,Heavy,Below Average,6-7 hours,Rarely,6-8 hours,Unhealthy,Very High,Supportive,Hostel,Moderate Stress
+Very Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very Low,Slightly Supportive,Hostel,Healthy
+Moderate,Heavy,Average,7-8 hours,Sometimes,2-4 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+High,Heavy,Below Average,7-8 hours,Rarely,More than 8 hours,Mostly Healthy,Very High,Slightly Supportive,With Family,Moderate Stress
+Low,Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Good,More than 8 hours,Sometimes,4-6 hours,Average,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Average,5-6 hours,Regularly,4-6 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Healthy
+Very High,Extremely Heavy,Below Average,6-7 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+Moderate,Moderate,Below Average,6-7 hours,Sometimes,2-4 hours,Average,Very High,Slightly Supportive,With Family,Moderate Stress
+High,Moderate,Average,5-6 hours,Sometimes,6-8 hours,Mostly Healthy,Moderate,Supportive,Hostel,Moderate Stress
+Low,Light,Good,More than 8 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Very Supportive,Shared Accommodation,Healthy
+High,Moderate,Average,6-7 hours,Rarely,4-6 hours,Unhealthy,Very Low,Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Average,5-6 hours,Rarely,6-8 hours,Mostly Healthy,High,Very Supportive,Hostel,Moderate Stress
+Very Low,Light,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Very High,Heavy,Poor,5-6 hours,Never,More than 8 hours,Very Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+Very High,Extremely Heavy,Below Average,6-7 hours,Rarely,More than 8 hours,Very Unhealthy,Very High,Slightly Supportive,Hostel,High Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,6-8 hours,Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+Moderate,Moderate,Excellent,More than 8 hours,Rarely,2-4 hours,Very Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Moderate,Heavy,Excellent,7-8 hours,Sometimes,4-6 hours,Very Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Average,High,Unsupportive,Rented Alone,High Stress
+Very High,Heavy,Poor,7-8 hours,Rarely,4-6 hours,Unhealthy,Very High,Supportive,With Family,Moderate Stress
+Low,Moderate,Good,6-7 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Supportive,Hostel,Healthy
+High,Heavy,Average,5-6 hours,Sometimes,6-8 hours,Unhealthy,Moderate,Very Unsupportive,Shared Accommodation,High Stress
+Moderate,Light,Good,More than 8 hours,Sometimes,4-6 hours,Average,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Low,Very Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Low,Moderate,Average,6-7 hours,Regularly,Less than 2 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Very Low,Light,Good,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Below Average,7-8 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Supportive,With Family,High Stress
+Low,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+Very High,Extremely Heavy,Below Average,5-6 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Very Unsupportive,Shared Accommodation,High Stress
+High,Very Heavy,Below Average,5-6 hours,Sometimes,4-6 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Average,6-7 hours,Sometimes,4-6 hours,Average,High,Supportive,With Family,Moderate Stress
+Very High,Very Heavy,Average,6-7 hours,Never,More than 8 hours,Unhealthy,Very High,Very Unsupportive,Shared Accommodation,High Stress
+Very High,Heavy,Average,6-7 hours,Sometimes,4-6 hours,Unhealthy,High,Very Unsupportive,With Family,High Stress
+Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Very Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Average,6-7 hours,Sometimes,4-6 hours,Unhealthy,Very High,Slightly Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Average,5-6 hours,Regularly,4-6 hours,Average,High,Very Unsupportive,Shared Accommodation,Moderate Stress
+High,Moderate,Average,6-7 hours,Regularly,2-4 hours,Mostly Healthy,Very High,Very Supportive,With Family,Moderate Stress
+Moderate,Light,Average,More than 8 hours,Daily,4-6 hours,Mostly Healthy,Very High,Very Unsupportive,With Family,Healthy
+High,Heavy,Average,5-6 hours,Never,More than 8 hours,Unhealthy,Very Low,Supportive,Shared Accommodation,High Stress
+Low,Moderate,Excellent,7-8 hours,Regularly,4-6 hours,Very Healthy,High,Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Below Average,6-7 hours,Rarely,6-8 hours,Unhealthy,Low,Very Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Good,6-7 hours,Regularly,2-4 hours,Mostly Healthy,Low,Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Average,More than 8 hours,Sometimes,6-8 hours,Average,Very High,Slightly Supportive,With Family,Moderate Stress
+Low,Light,Excellent,7-8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Good,7-8 hours,Rarely,4-6 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Poor,6-7 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Very Supportive,Hostel,High Stress
+High,Moderate,Good,7-8 hours,Sometimes,6-8 hours,Mostly Healthy,High,Slightly Supportive,Rented Alone,Moderate Stress
+Very Low,Light,Average,7-8 hours,Daily,2-4 hours,Mostly Healthy,High,Very Supportive,Hostel,Healthy
+Low,Moderate,Good,7-8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Moderate,Moderate,Below Average,6-7 hours,Rarely,4-6 hours,Very Healthy,High,Supportive,Rented Alone,Moderate Stress
+High,Moderate,Average,5-6 hours,Regularly,2-4 hours,Unhealthy,Very High,Very Supportive,Shared Accommodation,Moderate Stress
+Low,Light,Average,7-8 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Very Heavy,Average,7-8 hours,Never,6-8 hours,Unhealthy,Moderate,Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Average,6-7 hours,Sometimes,2-4 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Poor,Less than 5 hours,Rarely,More than 8 hours,Unhealthy,Very Low,Very Unsupportive,Hostel,High Stress
+High,Heavy,Good,6-7 hours,Never,4-6 hours,Unhealthy,Moderate,Supportive,Hostel,High Stress
+High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Unhealthy,Very Low,Very Unsupportive,Hostel,High Stress
+Low,Light,Excellent,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Very High,Supportive,With Family,Healthy
+High,Heavy,Average,6-7 hours,Never,6-8 hours,Unhealthy,Moderate,Supportive,Rented Alone,High Stress
+High,Heavy,Poor,5-6 hours,Never,4-6 hours,Average,High,Very Supportive,With Family,Moderate Stress
+High,Moderate,Below Average,5-6 hours,Sometimes,2-4 hours,Average,Low,Slightly Supportive,Hostel,Moderate Stress
+Very High,Heavy,Poor,6-7 hours,Never,4-6 hours,Unhealthy,Very Low,Supportive,Shared Accommodation,High Stress
+High,Heavy,Average,6-7 hours,Rarely,6-8 hours,Mostly Healthy,High,Supportive,With Family,Moderate Stress
+High,Heavy,Average,7-8 hours,Rarely,6-8 hours,Unhealthy,Very Low,Very Unsupportive,Hostel,High Stress
+Low,Light,Excellent,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,High,Very Supportive,With Family,Healthy
+Low,Moderate,Good,6-7 hours,Sometimes,4-6 hours,Very Healthy,Very High,Very Supportive,Shared Accommodation,Healthy
+High,Moderate,Below Average,5-6 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Average,6-7 hours,Daily,4-6 hours,Very Healthy,Moderate,Very Unsupportive,Shared Accommodation,Healthy
+Very Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+High,Heavy,Below Average,6-7 hours,Never,6-8 hours,Unhealthy,High,Very Supportive,Hostel,Moderate Stress
+Very High,Heavy,Below Average,7-8 hours,Never,4-6 hours,Very Unhealthy,Very High,Slightly Supportive,With Family,High Stress
+High,Moderate,Good,7-8 hours,Rarely,6-8 hours,Average,High,Supportive,With Family,Moderate Stress
+Very High,Extremely Heavy,Average,5-6 hours,Rarely,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Moderate,Average,6-7 hours,Rarely,4-6 hours,Average,Moderate,Slightly Supportive,Rented Alone,Moderate Stress
+High,Moderate,Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Very Low,Slightly Supportive,Rented Alone,High Stress
+High,Heavy,Below Average,6-7 hours,Rarely,6-8 hours,Unhealthy,High,Very Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Low,Supportive,Shared Accommodation,Healthy
+High,Moderate,Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,High,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Good,7-8 hours,Regularly,Less than 2 hours,Mostly Healthy,Very Low,Slightly Supportive,Rented Alone,Healthy
+Moderate,Heavy,Average,5-6 hours,Regularly,4-6 hours,Very Healthy,High,Very Supportive,Hostel,Moderate Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,6-8 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Poor,Less than 5 hours,Never,More than 8 hours,Unhealthy,Very High,Slightly Supportive,With Family,High Stress
+Moderate,Moderate,Average,6-7 hours,Rarely,4-6 hours,Average,Very High,Supportive,With Family,Moderate Stress
+High,Heavy,Average,5-6 hours,Sometimes,More than 8 hours,Unhealthy,High,Supportive,Hostel,High Stress
+Moderate,Heavy,Excellent,7-8 hours,Rarely,4-6 hours,Very Healthy,Moderate,Very Supportive,With Family,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+High,Heavy,Average,7-8 hours,Sometimes,More than 8 hours,Average,High,Very Supportive,With Family,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Regularly,6-8 hours,Average,Moderate,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,5-6 hours,Never,More than 8 hours,Unhealthy,Low,Supportive,Rented Alone,High Stress
+High,Heavy,Average,7-8 hours,Rarely,More than 8 hours,Unhealthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very Low,Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Supportive,With Family,Healthy
+Moderate,Moderate,Excellent,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Low,Very Unsupportive,Hostel,Moderate Stress
+Low,Moderate,Excellent,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Very High,Supportive,Hostel,Healthy
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Average,7-8 hours,Never,4-6 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Sometimes,6-8 hours,Average,Low,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Excellent,More than 8 hours,Sometimes,4-6 hours,Mostly Healthy,High,Supportive,Hostel,Healthy
+Very Low,Light,Average,More than 8 hours,Daily,2-4 hours,Mostly Healthy,Low,Supportive,Hostel,Healthy
+Low,Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Hostel,Healthy
+Moderate,Heavy,Poor,5-6 hours,Rarely,4-6 hours,Mostly Healthy,High,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Poor,5-6 hours,Never,6-8 hours,Unhealthy,High,Supportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,5-6 hours,Rarely,4-6 hours,Mostly Healthy,Very Low,Slightly Supportive,Rented Alone,High Stress
+Moderate,Moderate,Good,7-8 hours,Rarely,6-8 hours,Mostly Healthy,Very High,Very Supportive,Hostel,Moderate Stress
+High,Heavy,Poor,5-6 hours,Sometimes,More than 8 hours,Unhealthy,Low,Supportive,Hostel,High Stress
+Very High,Very Heavy,Average,Less than 5 hours,Never,6-8 hours,Unhealthy,Very Low,Supportive,Hostel,High Stress
+High,Heavy,Average,7-8 hours,Sometimes,6-8 hours,Average,Very High,Slightly Supportive,Shared Accommodation,Moderate Stress
+High,Heavy,Poor,5-6 hours,Rarely,4-6 hours,Mostly Healthy,Low,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Poor,5-6 hours,Rarely,4-6 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Excellent,7-8 hours,Regularly,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Below Average,6-7 hours,Sometimes,2-4 hours,Mostly Healthy,Very Low,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Good,7-8 hours,Rarely,2-4 hours,Average,Very High,Very Unsupportive,With Family,Moderate Stress
+Very High,Very Heavy,Average,5-6 hours,Never,More than 8 hours,Average,Very Low,Slightly Supportive,Hostel,High Stress
+Very High,Heavy,Average,5-6 hours,Rarely,4-6 hours,Very Unhealthy,Low,Supportive,Hostel,High Stress
+Moderate,Heavy,Good,7-8 hours,Regularly,2-4 hours,Average,High,Supportive,Hostel,Healthy
+Very High,Extremely Heavy,Poor,5-6 hours,Rarely,6-8 hours,Unhealthy,High,Slightly Supportive,Rented Alone,High Stress
+Very High,Heavy,Average,6-7 hours,Never,6-8 hours,Average,Very Low,Supportive,Shared Accommodation,High Stress
+Very High,Very Heavy,Average,6-7 hours,Rarely,More than 8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Average,5-6 hours,Regularly,4-6 hours,Unhealthy,Very Low,Slightly Supportive,Shared Accommodation,High Stress
+Very Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,7-8 hours,Sometimes,4-6 hours,Average,Moderate,Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Poor,6-7 hours,Never,More than 8 hours,Average,High,Very Supportive,Hostel,High Stress
+High,Heavy,Below Average,7-8 hours,Rarely,More than 8 hours,Mostly Healthy,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,7-8 hours,Rarely,4-6 hours,Very Unhealthy,Very Low,Supportive,Hostel,High Stress
+Moderate,Light,Good,6-7 hours,Regularly,Less than 2 hours,Average,Low,Slightly Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Average,High,Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Good,7-8 hours,Rarely,6-8 hours,Average,High,Supportive,Hostel,Moderate Stress
+High,Very Heavy,Average,6-7 hours,Never,4-6 hours,Unhealthy,Moderate,Very Unsupportive,With Family,High Stress
+High,Heavy,Below Average,6-7 hours,Never,4-6 hours,Average,Very Low,Very Unsupportive,Hostel,High Stress
+Low,Light,Excellent,More than 8 hours,Regularly,2-4 hours,Very Healthy,Moderate,Supportive,With Family,Healthy
+High,Moderate,Average,5-6 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Very Supportive,With Family,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Never,4-6 hours,Average,Low,Supportive,Shared Accommodation,High Stress
+High,Moderate,Average,6-7 hours,Regularly,4-6 hours,Mostly Healthy,Very High,Supportive,With Family,Moderate Stress
+High,Moderate,Average,7-8 hours,Rarely,2-4 hours,Average,High,Supportive,With Family,Moderate Stress
+Very High,Very Heavy,Poor,6-7 hours,Rarely,6-8 hours,Very Unhealthy,Low,Supportive,Shared Accommodation,High Stress
+Low,Moderate,Average,More than 8 hours,Sometimes,4-6 hours,Very Healthy,Very High,Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Average,6-7 hours,Rarely,6-8 hours,Very Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Very High,Heavy,Poor,5-6 hours,Sometimes,6-8 hours,Average,High,Very Unsupportive,Shared Accommodation,High Stress
+Low,Moderate,Good,6-7 hours,Daily,Less than 2 hours,Very Healthy,Very High,Very Supportive,With Family,Healthy
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Unhealthy,Moderate,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Good,7-8 hours,Sometimes,6-8 hours,Very Healthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Very High,Very Heavy,Below Average,6-7 hours,Rarely,6-8 hours,Average,Moderate,Slightly Supportive,Hostel,High Stress
+Very Low,Very Light,Excellent,7-8 hours,Regularly,2-4 hours,Very Healthy,High,Very Unsupportive,Rented Alone,Healthy
+Very Low,Very Light,Excellent,7-8 hours,Daily,2-4 hours,Very Healthy,Very Low,Supportive,Hostel,Healthy
+High,Very Heavy,Average,6-7 hours,Sometimes,4-6 hours,Average,High,Very Supportive,With Family,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Regularly,2-4 hours,Mostly Healthy,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Low,Light,Excellent,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,High,Very Supportive,With Family,Healthy
+Moderate,Heavy,Average,5-6 hours,Regularly,4-6 hours,Mostly Healthy,High,Very Unsupportive,Rented Alone,Moderate Stress
+Very Low,Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,Moderate,Slightly Supportive,With Family,Healthy
+Moderate,Moderate,Good,7-8 hours,Rarely,6-8 hours,Mostly Healthy,High,Very Unsupportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Rarely,6-8 hours,Average,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Heavy,Average,6-7 hours,Regularly,6-8 hours,Mostly Healthy,Low,Very Unsupportive,Hostel,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,More than 8 hours,Very Unhealthy,Very Low,Supportive,Hostel,High Stress
+High,Moderate,Below Average,6-7 hours,Rarely,2-4 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Extremely Heavy,Average,6-7 hours,Rarely,More than 8 hours,Average,Very Low,Very Supportive,Hostel,High Stress
+High,Heavy,Below Average,7-8 hours,Never,6-8 hours,Average,Moderate,Very Unsupportive,Shared Accommodation,High Stress
+Moderate,Heavy,Excellent,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,High,Slightly Supportive,Hostel,Moderate Stress
+Very High,Heavy,Average,5-6 hours,Never,More than 8 hours,Unhealthy,High,Slightly Supportive,Hostel,High Stress
+Low,Moderate,Good,7-8 hours,Daily,4-6 hours,Very Healthy,Moderate,Very Supportive,Hostel,Healthy
+Low,Moderate,Good,7-8 hours,Daily,4-6 hours,Very Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very High,Heavy,Below Average,5-6 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Average,6-7 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Supportive,Hostel,Moderate Stress
+Very High,Extremely Heavy,Poor,6-7 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Very Supportive,Hostel,High Stress
+Low,Moderate,Good,7-8 hours,Daily,4-6 hours,Mostly Healthy,Low,Very Supportive,Shared Accommodation,Healthy
+High,Heavy,Average,6-7 hours,Never,4-6 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Good,7-8 hours,Sometimes,6-8 hours,Very Healthy,Low,Supportive,Hostel,Moderate Stress
+Very High,Heavy,Poor,5-6 hours,Sometimes,6-8 hours,Unhealthy,Moderate,Very Supportive,Hostel,High Stress
+Moderate,Heavy,Below Average,6-7 hours,Rarely,6-8 hours,Very Healthy,Moderate,Very Unsupportive,Shared Accommodation,Moderate Stress
+Moderate,Moderate,Excellent,More than 8 hours,Sometimes,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Rented Alone,Healthy
+High,Heavy,Average,5-6 hours,Rarely,4-6 hours,Mostly Healthy,Very Low,Very Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Average,Moderate,Very Supportive,Hostel,High Stress
+Very Low,Very Light,Average,More than 8 hours,Daily,2-4 hours,Very Healthy,Moderate,Very Supportive,Hostel,Healthy
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Very Unsupportive,Hostel,Healthy
+Moderate,Moderate,Excellent,7-8 hours,Regularly,6-8 hours,Very Healthy,Moderate,Supportive,Hostel,Healthy
+Low,Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,High,Supportive,Hostel,Healthy
+Moderate,Heavy,Average,6-7 hours,Rarely,4-6 hours,Mostly Healthy,Very High,Supportive,Hostel,Moderate Stress
+High,Heavy,Average,6-7 hours,Rarely,4-6 hours,Unhealthy,Low,Very Supportive,Hostel,Moderate Stress
+Very Low,Very Light,Good,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,High,Very Supportive,With Family,Healthy
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Average,Very High,Supportive,Rented Alone,High Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Moderate,Slightly Supportive,Rented Alone,Moderate Stress
+High,Very Heavy,Average,7-8 hours,Never,4-6 hours,Mostly Healthy,High,Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Low,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,6-8 hours,Average,High,Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Below Average,7-8 hours,Regularly,2-4 hours,Mostly Healthy,Very High,Slightly Supportive,With Family,Moderate Stress
+High,Moderate,Below Average,5-6 hours,Regularly,6-8 hours,Average,Moderate,Slightly Supportive,Shared Accommodation,Moderate Stress
+Low,Light,Good,More than 8 hours,Regularly,4-6 hours,Very Healthy,Low,Supportive,Rented Alone,Healthy
+High,Heavy,Good,7-8 hours,Rarely,More than 8 hours,Mostly Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Good,6-7 hours,Regularly,6-8 hours,Mostly Healthy,Very High,Very Unsupportive,With Family,Moderate Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,7-8 hours,Regularly,6-8 hours,Mostly Healthy,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Low,Moderate,Excellent,More than 8 hours,Sometimes,Less than 2 hours,Very Healthy,Low,Supportive,Shared Accommodation,Healthy
+High,Moderate,Below Average,7-8 hours,Regularly,4-6 hours,Unhealthy,Moderate,Unsupportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Good,7-8 hours,Regularly,2-4 hours,Average,High,Slightly Supportive,Shared Accommodation,Healthy
+Low,Moderate,Excellent,7-8 hours,Regularly,4-6 hours,Mostly Healthy,High,Very Unsupportive,Rented Alone,Healthy
+Low,Moderate,Average,7-8 hours,Sometimes,2-4 hours,Very Healthy,Very High,Supportive,With Family,Healthy
+High,Moderate,Below Average,5-6 hours,Sometimes,6-8 hours,Unhealthy,Moderate,Supportive,Hostel,High Stress
+High,Moderate,Good,7-8 hours,Sometimes,2-4 hours,Unhealthy,High,Slightly Supportive,Hostel,Moderate Stress
+Very High,Very Heavy,Poor,6-7 hours,Never,More than 8 hours,Unhealthy,High,Slightly Supportive,Shared Accommodation,High Stress
+High,Moderate,Below Average,5-6 hours,Rarely,4-6 hours,Average,Moderate,Supportive,Hostel,High Stress
+Very High,Heavy,Below Average,7-8 hours,Never,More than 8 hours,Unhealthy,Low,Very Supportive,Hostel,High Stress
+Very High,Very Heavy,Below Average,5-6 hours,Never,6-8 hours,Very Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+High,Very Heavy,Poor,5-6 hours,Sometimes,More than 8 hours,Average,Low,Supportive,Rented Alone,High Stress
+Moderate,Moderate,Good,More than 8 hours,Rarely,2-4 hours,Average,Very High,Very Unsupportive,Rented Alone,Moderate Stress
+High,Moderate,Good,7-8 hours,Sometimes,6-8 hours,Mostly Healthy,Very High,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Poor,5-6 hours,Sometimes,4-6 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,Moderate Stress
+High,Heavy,Poor,5-6 hours,Rarely,6-8 hours,Mostly Healthy,Moderate,Unsupportive,Rented Alone,High Stress
+Moderate,Heavy,Below Average,6-7 hours,Regularly,6-8 hours,Average,Very High,Unsupportive,Rented Alone,Moderate Stress
+Very High,Extremely Heavy,Average,Less than 5 hours,Never,6-8 hours,Average,Very Low,Very Unsupportive,Rented Alone,High Stress
+High,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Mostly Healthy,Very High,Very Unsupportive,With Family,Moderate Stress
+Very Low,Light,Good,More than 8 hours,Daily,2-4 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+High,Moderate,Average,6-7 hours,Regularly,2-4 hours,Mostly Healthy,High,Very Unsupportive,Rented Alone,Moderate Stress
+High,Heavy,Average,6-7 hours,Never,6-8 hours,Mostly Healthy,High,Slightly Supportive,With Family,Moderate Stress
+High,Heavy,Average,5-6 hours,Sometimes,4-6 hours,Average,Very High,Supportive,With Family,Moderate Stress
+Very High,Heavy,Average,7-8 hours,Never,More than 8 hours,Average,Low,Very Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Below Average,7-8 hours,Never,4-6 hours,Average,Moderate,Very Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Excellent,7-8 hours,Rarely,4-6 hours,Average,Very High,Supportive,Hostel,Moderate Stress
+Moderate,Moderate,Good,More than 8 hours,Rarely,4-6 hours,Average,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Low,Moderate,Average,6-7 hours,Daily,4-6 hours,Very Healthy,High,Supportive,Rented Alone,Healthy
+Very High,Heavy,Below Average,6-7 hours,Sometimes,More than 8 hours,Very Unhealthy,Very High,Supportive,With Family,High Stress
+High,Moderate,Average,7-8 hours,Sometimes,6-8 hours,Average,Very Low,Very Supportive,Hostel,Moderate Stress
+Low,Light,Good,More than 8 hours,Sometimes,Less than 2 hours,Mostly Healthy,Very High,Supportive,With Family,Healthy
+Very Low,Light,Average,More than 8 hours,Regularly,2-4 hours,Very Healthy,Very High,Very Unsupportive,Hostel,Healthy
+Very High,Very Heavy,Poor,6-7 hours,Never,More than 8 hours,Unhealthy,Moderate,Slightly Supportive,Shared Accommodation,High Stress
+Very High,Heavy,Below Average,7-8 hours,Sometimes,More than 8 hours,Unhealthy,Very High,Slightly Supportive,Rented Alone,Moderate Stress
+Low,Light,Average,More than 8 hours,Regularly,4-6 hours,Very Healthy,Low,Slightly Supportive,Hostel,Healthy
+High,Heavy,Poor,5-6 hours,Never,6-8 hours,Mostly Healthy,Very High,Slightly Supportive,Shared Accommodation,High Stress
+Low,Moderate,Good,More than 8 hours,Sometimes,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Below Average,Less than 5 hours,Rarely,6-8 hours,Very Unhealthy,Very High,Very Supportive,Shared Accommodation,High Stress
+High,Moderate,Poor,5-6 hours,Regularly,2-4 hours,Average,High,Very Unsupportive,With Family,Moderate Stress
+High,Heavy,Average,6-7 hours,Never,More than 8 hours,Mostly Healthy,High,Supportive,Hostel,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Slightly Supportive,Shared Accommodation,Healthy
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,Very Low,Slightly Supportive,Hostel,High Stress
+Very Low,Light,Excellent,7-8 hours,Daily,2-4 hours,Very Healthy,Low,Slightly Supportive,Shared Accommodation,Healthy
+Moderate,Moderate,Good,7-8 hours,Sometimes,4-6 hours,Average,Very Low,Slightly Supportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Average,6-7 hours,Sometimes,2-4 hours,Very Healthy,Moderate,Very Supportive,Shared Accommodation,Moderate Stress
+Very Low,Very Light,Excellent,More than 8 hours,Daily,2-4 hours,Very Healthy,Very Low,Very Supportive,Hostel,Healthy
+Moderate,Heavy,Poor,5-6 hours,Rarely,6-8 hours,Very Healthy,Moderate,Supportive,Hostel,Moderate Stress
+High,Heavy,Below Average,5-6 hours,Rarely,More than 8 hours,Average,Moderate,Supportive,Shared Accommodation,High Stress
+High,Moderate,Average,7-8 hours,Sometimes,4-6 hours,Unhealthy,Very Low,Slightly Supportive,Hostel,Moderate Stress
+Very Low,Light,Excellent,7-8 hours,Daily,2-4 hours,Very Healthy,High,Slightly Supportive,Shared Accommodation,Healthy
+Moderate,Light,Good,6-7 hours,Sometimes,4-6 hours,Average,High,Very Supportive,Shared Accommodation,Moderate Stress
+Moderate,Heavy,Below Average,5-6 hours,Sometimes,2-4 hours,Very Healthy,Low,Very Supportive,Shared Accommodation,Moderate Stress
+Very High,Heavy,Poor,5-6 hours,Never,More than 8 hours,Average,Moderate,Very Unsupportive,Rented Alone,High Stress
+Low,Moderate,Average,6-7 hours,Daily,Less than 2 hours,Very Healthy,Moderate,Unsupportive,Rented Alone,Healthy
+Moderate,Moderate,Good,More than 8 hours,Rarely,4-6 hours,Very Healthy,Moderate,Slightly Supportive,Rented Alone,Moderate Stress
+Moderate,Heavy,Average,6-7 hours,Sometimes,6-8 hours,Very Healthy,High,Supportive,Shared Accommodation,Moderate Stress
+Low,Light,Excellent,7-8 hours,Sometimes,2-4 hours,Mostly Healthy,Low,Very Supportive,Hostel,Healthy
+Low,Moderate,Average,7-8 hours,Daily,2-4 hours,Mostly Healthy,Very High,Very Unsupportive,With Family,Healthy
+Moderate,Heavy,Excellent,7-8 hours,Regularly,4-6 hours,Average,Very Low,Supportive,Shared Accommodation,Moderate Stress
+Very High,Very Heavy,Below Average,Less than 5 hours,Never,More than 8 hours,Very Unhealthy,High,Very Supportive,Shared Accommodation,High Stress
+Low,Light,Excellent,More than 8 hours,Sometimes,2-4 hours,Mostly Healthy,High,Very Supportive,Shared Accommodation,Healthy
+Very Low,Very Light,Excellent,More than 8 hours,Daily,Less than 2 hours,Mostly Healthy,High,Slightly Supportive,Rented Alone,Healthy
+Very High,Heavy,Average,5-6 hours,Rarely,More than 8 hours,Very Unhealthy,Very Low,Supportive,Hostel,High Stress
+Very High,Heavy,Poor,7-8 hours,Never,More than 8 hours,Very Unhealthy,Moderate,Slightly Supportive,Hostel,High Stress
+High,Moderate,Good,6-7 hours,Sometimes,6-8 hours,Average,Very High,Supportive,Rented Alone,Moderate Stress
+High,Very Heavy,Average,5-6 hours,Never,4-6 hours,Average,Low,Slightly Supportive,Shared Accommodation,High Stress
+Low,Moderate,Average,7-8 hours,Daily,Less than 2 hours,Very Healthy,Very High,Supportive,With Family,Healthy
+Low,Moderate,Good,7-8 hours,Regularly,Less than 2 hours,Very Healthy,Very High,Supportive,With Family,Healthy
+Very Low,Light,Excellent,More than 8 hours,Regularly,2-4 hours,Very Healthy,Very High,Slightly Supportive,With Family,Healthy
+High,Heavy,Below Average,5-6 hours,Never,6-8 hours,Mostly Healthy,High,Supportive,Shared Accommodation,High Stress
+Moderate,Moderate,Good,More than 8 hours,Regularly,2-4 hours,Mostly Healthy,Moderate,Very Unsupportive,Rented Alone,Healthy
+Very Low,Light,Average,More than 8 hours,Regularly,Less than 2 hours,Mostly Healthy,Moderate,Supportive,Shared Accommodation,Healthy
+Moderate,Heavy,Excellent,7-8 hours,Regularly,2-4 hours,Average,Very Low,Supportive,Shared Accommodation,Moderate Stress
+High,Moderate,Average,5-6 hours,Regularly,6-8 hours,Average,Moderate,Very Unsupportive,Rented Alone,High Stress
+Moderate,Moderate,Good,6-7 hours,Regularly,4-6 hours,Very Healthy,High,Very Unsupportive,Rented Alone,Moderate Stress
